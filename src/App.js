@@ -1,7 +1,5 @@
 import React from 'react';
 import Cards from './Component/Card/Cards';
-import CountryPicker from './Component/Country/CountryPicker';
-import Chart from './Component/Chart/Chart';
 import {fetchData} from './Component/api';
 class App extends React.Component{
   
